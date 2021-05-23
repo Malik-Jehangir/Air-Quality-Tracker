@@ -1,0 +1,2 @@
+# Air-Quality-Tracker
+ATrack is a smart handheld air health measuring gadget that uses the power of Azure cloud to measure the Particulate Matter (PM) in the air. It alerts the user of the incoming potential air quality related vulnerabilities to advice proper actions via a mobile app. The device is small so it can be attached using a hook to user’s pants, bag, wheelchair, as well as it can be attached to the back of a user’s phone to be used as an air quality tracker.
